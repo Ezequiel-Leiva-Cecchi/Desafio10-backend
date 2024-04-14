@@ -1,0 +1,97 @@
+paths:
+  /products:
+    get:
+      summary: Obtener todos los productos
+      description: Obtiene todos los productos disponibles en la tienda.
+      tags:
+        - Productos
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/Product'
+    post:
+      summary: Agregar un nuevo producto
+      description: Agrega un nuevo producto a la tienda.
+      tags:
+        - Productos
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ProductInput'
+      responses:
+        '201':
+          description: Producto agregado exitosamente
+        '400':
+          description: Error en la solicitud o datos incorrectos
+
+  /products/{productId}:
+    get:
+      summary: Obtener un producto por ID
+      description: Obtiene un producto específico por su ID.
+      tags:
+        - Productos
+      parameters:
+        - name: productId
+          in: path
+          description: ID del producto a obtener
+          required: true
+          schema:
+            type: string
+      responses:
+        '200':
+          description: OK
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Product'
+        '404':
+          description: Producto no encontrado
+    put:
+      summary: Editar un producto existente
+      description: Edita un producto existente en la tienda.
+      tags:
+        - Productos
+      parameters:
+        - name: productId
+          in: path
+          description: ID del producto a editar
+          required: true
+          schema:
+            type: string
+      requestBody:
+        required: true
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ProductInput'
+      responses:
+        '200':
+          description: Producto editado exitosamente
+        '400':
+          description: Error en la solicitud o datos incorrectos
+        '404':
+          description: Producto no encontrado
+    delete:
+      summary: Eliminar un producto existente
+      description: Elimina un producto existente de la tienda.
+      tags:
+        - Productos
+      parameters:
+        - name: productId
+          in: path
+          description: ID del producto a eliminar
+          required: true
+          schema:
+            type: string
+      responses:
+        '204':
+          description: Producto eliminado exitosamente
+        '404':
+          description: Producto no encontrado

@@ -1,0 +1,102 @@
+[
+    {
+        "id": "1702392199934",
+        "title": "Galaxy S23 FE",
+        "description": "El Samsung Galaxy S23 FE llega este año con un Snapdragon 8 Gen 1 para USA o un Exynos 2200 para el resto del mundo. El Galaxy S23 FE cuenta con una pantalla AMOLED de 6.4 pulgadas a resolución FHD+ y tasa de refresco de 120Hz. El procesador está acompañado de 8GB de RAM, con opciones de 128GB o 256GB de almacenamiento interno. La cámara principal triple cuenta con un sensor de 50MP, complementada por una cámara telefoto de 8MP y una cámara ultrawide de 12MP, siendo la cámara selfie de 10MP. Una batería de 4500 mAh de carga rápida alimenta al Samsung Galaxy S23 FE, completando sus características con parlantes stereo, resistencia al polvo y agua, lector de huellas bajo la pantalla, y One UI 5.1 basado en Android 13.",
+        "code": "AEWS1",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Samsung"
+    },
+    {
+        "id": "1702392304315",
+        "title": "Galaxy S22 Ultra",
+        "description": "El Samsung Galaxy S22 Ultra es el verdadero flagship de la serie Galaxy S22, siendo el sucesor tanto del Galaxy S21 Ultra como del Galaxy Note 20 Ultra incorporando el stylus S Pen. El Galaxy S22 Ultra cuenta con una pantalla AMOLED de 6.8 pulgadas a resolución QHD+ y tasa de refresco de 120Hz. Por dentro, encontramos un procesador Snapdragon 8 Gen 1 de Qualcomm para USA, China e India, mientras que el resto del mundo recibe la variante con Exynos 2200, en ambos casos con hasta 12GB de RAM y 1TB de almacenamiento. El Galaxy S22 Ultra es alimentado por una batería de 5000 mAh con soporte para carga rápida de 45W por cable y carga inalámbrica de 15W. El Galaxy S22 Ultra cuenta con un conjunto de cuatro cámaras posteriores, con la principal de 108MP, ultrawide de 12MP, una cámara telefoto de 10MP y una cámara telefoto periscópica de 10MP, mientras que la cámara selfie es de 40MP y completa sus características con parlantes stereo, resistencia al agua, lector de huellas bajo pantalla y corre Android 12.",
+        "code": "AEWS2",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Samsung"
+    },
+    {
+        "id": "1702392440748",
+        "title": "Galaxy S21 FE 5G",
+        "description": "El Samsung Galaxy S21 FE 5G es la edición para fanáticos de la serie Galaxy S21. Se trata de un smartphone Android con una pantalla AMOLED FHD+ de 6.4 pulgadas con tasa de refresco de 120Hz. El Galaxy S21 FE llega en dos variantes: una con procesador Snapdragon 888 - para USA y Europa - y otra con chip Exynos 2100 - para mercados asiáticos - con 6GB o 8GB de RAM y 128GB o 256GB de almacenamiento interno. El conjunto de cámaras dorsal del Galaxy S21 FE consta de un sensor de 12MP con OIS, una cámara ultrawide de 12MP, y una cámara telefoto de 8MP con OIS, mientras que la cámara selfie es de 32MP. Alimentado por una batería de 4500 mAh de carga rápida, el Galaxy S21 FE 5G admite carga inalámbrica, cuenta con lector de huellas debajo de la pantalla, y llega con One UI 4 basado en Android 12 de fábrica.",
+        "code": "AEWS3",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Samsung"
+    },
+    {
+        "id": "1702392600081",
+        "title": "Samsung Galaxy S20 FE",
+        "description": "El Samsung Galaxy S20 FE es un nuevo miembro de la serie Galaxy S20, disponible en versiones 5G o LTE. El Galaxy S20 FE llega con una pantalla Super AMOLED de 6.5 pulgadas a resolución Full HD+ y potenciado por un procesador Exynos 990 con 6GB de memoria RAM y 128GB de almacenamiento interno expandible en el caso de la variante LTE mientras que la variante con conectividad 5G utiliza un procesador Snapdragon 865 con 8GB de RAM y 128GB o 256GB de almacenamiento. La cámara principal del Galaxy S20 FE es triple, con lentes de 12 MP, 8 MP y 12 MP, y la cámara frontal para selfies es de 32 megapixels. Completando las características del Galaxy S20 FE encontramos una batería de 4500 mAh de carga rápida, lector de huellas bajo pantalla, refresco de pantalla de 120 Hz, sonido de alta fidelidad, y corre Android 10 con la interfaz One UI 2.5.",
+        "code": "AEWS4",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Samsung"
+    },
+    {
+        "id": "1702392624821",
+        "title": "Galaxy S23 Ultra",
+        "description": "El Samsung Galaxy S23 Ultra es el más poderoso de la serie Galaxy S23. Con una pantalla Dynamic AMOLED 2X de 6.8 pulgadas a 1440 x 3088 pixels de resolución y tasa de refresco de 120Hz, el Galaxy S23 Ultra está potenciado por una versión especial del chip Snapdragon 8 Gen 2 junto con hasta 12GB de RAM y hasta 1TB de almacenamiento interno. Su cámara posterior es cuádruple, con un sensor principal de 200MP con OIS, una cámara telefoto periscópica de 10MP con zoom óptico 10x, una cámara telefoto de 10MP con zoom óptico 3x, y un lente ultrawide de 12MP, mientras que la cámara frontal es de 12MP con autofoco. El Galaxy S23 Ultra se alimenta de una batería de 5000 mAh con soporte para carga rápida de 45W y soporta carga inalámbrica, completando sus características con un stylus S Pen, parlantes stereo, lector de huellas bajo pantalla, resistencia al polvo y agua, y Android 13.",
+        "code": "AEWS5",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Samsung"
+    },
+    {
+        "id": "1702392649454",
+        "title": "iPhone 15 Pro",
+        "description": "El Apple iPhone 15 Pro llega este año con un chasis fabricado en titanio que reemplaza al acero inoxidable y estrena puerto USB-C que reemplaza al puerto Lightning. El iPhone 15 Pro tiene una pantalla OLED LTPO de 6.1 pulgadas y una cámara triple en su posterior, con un sensor principal de 48MP, y un par de sensores de 12MP que funcionan como telefoto y ultrawide. La cámara frontal es de 12MP e incopora OIS y sensores para Face ID. La batería del iPhone 15 Pro se puede cargar al 50% en 30 minutos, es resistente al polvo y agua, tiene parlantes stereo y está impulsado por el nuevo procesador Apple A17 Pro de seis núcleos.",
+        "code": "AEWS6",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Iphone"
+    },
+    {
+        "id": "1702392668635",
+        "title": "iPhone 14 Plus",
+        "description": "El Apple iPhone 14 Plus se suma a la serie iPhone 14 con una pantalla OLED de 6.7 pulgadas y procesador A15 Bionic. El iPhone 14 Plus cuenta con una cámara dual de 12MP + 12MP, con estabilización por sensor, y modo Cinemático, mientras que la cámara frontal suma autofoco PDAF. El iPhone 14 Plus también cuenta con carga inalámbrica, parlantes stereo, resistencia al polvo y agua, y corre iOS 16.",
+        "code": "AEWS7",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Iphone"
+    },
+    {
+        "id": "1702392703026",
+        "title": "iPhone 13",
+        "description": "El Apple iPhone 13 representa una actualización menor del iPhone 12. Conservando la pantalla OLED de 6.1 pulgadas, el iPhone 13 cuenta con un procesador Apple A15 Bionic, con opciones de almacenamiento de 128GB. 256GB. o 512GB. La cámara principal del iPhone 13 es dual, con lentes wide y ultrawide de 12MP con IBIS y zoom óptico 2x, y la cámara frontal es de 12MP. El iPhone 13 tiene parlantes stereo, soporta carga rápida tanto por cable como inalámbrica, es resistente al polvo y agua, y soporta redes 5G.",
+        "code": "AEWS8",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Iphone"
+    },
+    {
+        "id": "1702392731319",
+        "title": "iPhone SE",
+        "description": "El Apple iPhone SE es el nuevo smartphone de cuatro pulgadas que reemplaza al iPhone 5S. Mientras que conserva casi idéntico diseño exterior, el hardware interno ha sido actualizado a la altura del iPhone 6s, incluyendo un procesador A9, NFC, cámara de 12 megapixels con captura de video 4K, y corre iOS 9.3.",
+        "code": "AEWS9",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Iphone"
+    },
+    {
+        "id": "1702392771471",
+        "title": "Apple iPhone 14",
+        "description": "El Apple iPhone 14 llega este año con el mismo chip A15 Bionic del iPhone 13. Con una pantalla de 6.1 pulgadas, el iPhone 14 cuenta con una cámara dual con dos sensores de 12MP, siendo el principal estabilizado. La cámara selfie es de 12MP y suma PDAF y la batería puede cargarse en forma inalámbrica mediante MagSafe o por cable, logrando una carga de 50% en 30 minutos. El iPhone 14 también cuenta con parlantes stereo, Face ID, sistema de mensajería de emergencia vía satélite, y resiste el polvo y agua.",
+        "code": "AEWS10",
+        "price": 10.99,
+        "status": true,
+        "stock": 10,
+        "category": "Iphone"
+    }
+]

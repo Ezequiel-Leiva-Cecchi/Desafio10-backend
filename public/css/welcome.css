@@ -1,0 +1,145 @@
+body {
+    background-color: #f0f0f0; 
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.navbar {
+    background-color: #4CAF50;
+    padding: 15px 0;
+}
+
+.logo {
+    color: white;
+    margin: 0;
+}
+
+.navbar-links {
+    display: flex;
+    align-items: center;
+}
+
+.dropdown {
+    position: relative;
+    margin-right: 20px;
+}
+
+.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 15px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f9f9f9;
+    min-width: 160px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+}
+
+.dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+}
+
+.dropdown-content a:hover {
+    background-color: #f1f1f1;
+}
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.cart-btn {
+    background-color: #45a049; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1.2em; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px;
+    margin-right: 20px;
+}
+
+.cart-btn:hover {
+    background-color: #3f9142; 
+}
+
+.logout-btn {
+    background-color: #45a049; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1.2em; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px;
+}
+
+.logout-btn:hover {
+    background-color: #3f9142; 
+}
+
+.product-cards {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px; 
+    justify-content: center;
+    padding: 20px;
+}
+
+.card {
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 20px;
+    width: 300px; 
+    background-color: white;
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.1);
+    transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.card h2 {
+    margin-top: 0;
+    color: #333;
+    font-size: 1.5em;
+    margin-bottom: 10px;
+}
+
+.card p {
+    color: #666;
+}
+
+.add-to-cart-btn {
+    background-color: #008CBA; 
+    color: white; 
+    padding: 10px 20px; 
+    font-size: 1em; 
+    cursor: pointer; 
+    border: none; 
+    border-radius: 5px;
+    margin-top: 10px;
+    transition: background-color 0.3s ease;
+}
+
+.add-to-cart-btn:hover {
+    background-color: #005F6B; 
+}
